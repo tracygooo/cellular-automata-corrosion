@@ -1,0 +1,3 @@
+# --- Different grain size
+end_generation 5 
+end_thickness_loss 240

@@ -1,0 +1,14 @@
+# material, p0, p2
+# p1 = p3 = 1 - p0 - p2
+Cl2 Cr 0 0.95
+Cl2 Ni 0 0.95
+Cl2 Mo 0 0.95
+Cl2 Void 0.95 0.0
+Cl2 Prod 0.95 0.0
+Cl2 MC 0.95 0.0
+O2 Cr 0 0.95
+O2 Ni 0 0.95
+O2 Mo 0 0.95
+O2 Void 0.99 0.0
+O2 Prod 0.95 0.0
+O2 MC 0.95 0.0

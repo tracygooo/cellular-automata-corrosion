@@ -1,0 +1,10 @@
+# reactant 1, reactant 2, product, probability 
+Cl2 Cr Prod 0.035 
+Cl2 Ni Prod 0.016
+Cl2 Mo Prod 0.014
+Cl2 MC Prod 0.99
+Cl2 Void Prod 1
+O2 Cr Prod 0.053 
+O2 Ni Prod 0.021
+O2 MC Prod 0.99
+O2 Void Prod 1
