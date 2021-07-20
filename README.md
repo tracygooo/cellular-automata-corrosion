@@ -35,7 +35,7 @@ cellular-automata-corrosion
 ```
 
 ## 3. How to run program
-### Input cards 
+### Input 
 - Modify `diffusion.txt`, `materials.txt`, `rules.txt`, `termination.txt` to define the simulation problem
 - Create `<filename>.int` to initialize the board
 - Place all text files above in `input/`
@@ -44,7 +44,7 @@ cellular-automata-corrosion
 - Go to directory `src/`
 - Run  `python3 main.py ../input/<filename>.int` 
 
-## Output
+### Output
 - After finishing the simulation, three files should be found in folder `output/`
     - `<filename>_roughness.txt`
     - `<filename>_content.txt`
