@@ -1,6 +1,5 @@
 ## 1. General description
 This is a cellular automata program to simulate the diffusion of corrosive agents and the reaction between materials and agents. Thickness, roughness, and contents are computed during the simulation. Users can specify the problem via input cards. A GUI is used to display the simulation results in real time.  Keyboard interactions with the program is provided as well.
-
 <img src="output/gifs/corrosion_fast.gif" width="480"/> <img src="output/gifs/diffusion_fast.gif" width="480"/>
 
 ## 2. File organization
