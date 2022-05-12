@@ -1,5 +1,8 @@
 """
 Create voronoi geometry for grid structure
+1. Create voronoi graph using python package scipy
+2. Find the boundary of the voronoi graph
+3, Map the boundary to matrix (matrix[i][j] = 1 if the cell is on the boundary)
 """
 
 from scipy.spatial import Voronoi, voronoi_plot_2d
